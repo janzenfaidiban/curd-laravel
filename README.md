@@ -9,7 +9,7 @@ CRUD System using Framework Laravel
 # Instalasi
 
 ### Composer Configuration
-> Jalankan perintdah ini untuk menginstal configurasi composer dan hasilnya akan muncul sebuah folder dengan nama "vendor". Berikut ini perintah untuk menginstal :<br> ` composer install `
+> Jalankan perintah ini untuk menginstal configurasi composer dan hasilnya akan muncul sebuah folder dengan nama "vendor". Berikut ini perintah untuk menginstalnya :<br> ` composer install `
 
 ### Rename file .env
 > Rename ".env.xample" menjadi ".env" kemudian pada baris ini dan edit seperti ini : <br>
