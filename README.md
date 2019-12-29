@@ -2,7 +2,7 @@
 CRUD System using Framework Laravel
 
 # Video Tutorial
-> Sistem sederhana ini dibuat berdasarkan video pada sebuah video tutorial di chanel youtube.<br>
+> Sistem sederhana ini dibuat berdasarkan pada sebuah video tutorial di chanel youtube.<br>
 > Berikut ini linknya : https://youtu.be/FHQG0NR7XPQ
 
 ### Composer Configuration
