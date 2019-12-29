@@ -1,2 +1,13 @@
-# curd-laravel
-curd-laravel
+# CRUD-LARAVEL
+CRUD System using Framework Laravel
+
+# Video Tutorial
+> Sistem sederhana ini dibuat berdasarkan video pada sebuah video tutorial di chanel youtube.<br>
+> Berikut ini linknya : https://youtu.be/FHQG0NR7XPQ
+
+### Composer Configuration
+> Jalankan perintdah ini untuk menginstal configurasi composer dan hasilnya akan muncul sebuah folder dengan nama "vendor". Berikut ini perintah untuk menginstal :<br> ` composer install `
+
+### Rename file .env
+> Rename ".env.xample" menjadi ".env" kemudian pada baris ini dan edit seperti ini : <br>
+` DB_DATABASE=crud-laravel `
